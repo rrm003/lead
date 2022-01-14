@@ -1,0 +1,19 @@
+Paths: 
+
+/ : fetch all data
+/{Code} : fetch all moves of code
+
+
+data
+
+<html>
+<head><title>ECO Listing</title></head>
+<body bgcolor=#FFFFFF>
+<font face="verdana,arial,helvetica" size=+1>
+<B>ECO Chess Opening Codes:</B>
+<P>
+<table border=0 cellpadding=2 cellspacing=0>
+<tr bgcolor=#FFEECC><td valign=TOP><font face='arial,helvetica'>A00</font></td><td><font face='arial,helvetica'><B>Uncommon Opening</B><br>
+<font size=-1>1 g4, a3, h3, etc.</font></font></td></tr>
+</table><pre>
+</html>
